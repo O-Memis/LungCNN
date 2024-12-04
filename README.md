@@ -58,6 +58,17 @@ Classes within the Dataset:
 -*Viral Pneumonia* (1100 Images): Images in this category are associated with viral pneumonia cases, contributing to the understanding and identification of this specific lung infection.
 <br><br>
 
+File structure:
+<br><br>
+
+📁 data
+ ├── 📁 Lung_Opacity
+ ├── 📁 Normal
+ └── 📁 Viral_Pheumonia
+
+ <br><br>
+
+
 
 Mendeley[https://data.mendeley.com/datasets/9d55cttn5h/1]
 
